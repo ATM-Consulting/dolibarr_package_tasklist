@@ -6,3 +6,6 @@
 	path = htdocs/tasklist
 	url = git@github.com:ATM-Consulting/dolibarr_module_tasklist.git
 	branch = 2.0
+[submodule "htdocs/abricot"]
+	path = htdocs/abricot
+	url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
