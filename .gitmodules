@@ -8,4 +8,5 @@
 	branch = 2.0
 [submodule "htdocs/abricot"]
 	path = htdocs/abricot
-	url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
+    url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
+    branch = master
